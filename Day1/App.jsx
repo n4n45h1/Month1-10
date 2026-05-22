@@ -12,6 +12,7 @@ export default function Counter() {
       <button onClick={() => setCount((count) => count * 2)}> x2 </button>
       <button onClick={() => setCount(0)}> リセット </button>
       <button onClick={() => setCount((count) => Math.abs(count))}> 絶対値 </button> 
+      {// react楽しいわ}
     </div>
   );
 }
