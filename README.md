@@ -1,2 +1,4 @@
-# Month1
-Reactの学習
+# Month1 day1-30
+Reactの学習です
+サボらないように頑張る！
+rr
